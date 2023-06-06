@@ -1,0 +1,160 @@
+
+.transparent-button {
+    background-color: transparent;
+    border: none;
+    color: #fff; /* Change the color as per your design */
+    font-size: 16px; /* Adjust the font size as needed */
+    cursor: pointer;
+  }
+  
+  .transparent-button:hover {
+    text-decoration: underline; /* Add hover effect if desired */
+  }
+  
+
+.barna__footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background: var(--color-footer);
+}
+
+.barna__footer-heading {
+    width: 100%;
+    text-align: center;
+
+    margin-bottom: 3rem;
+}
+
+.barna__footer-heading h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 75px;
+}
+
+.barna__footer-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1rem;
+    border: 1px solid #fff;
+    text-align: center;
+
+    margin-bottom: 10rem;
+    cursor: pointer;
+}
+
+.barna__footer-btn p {
+    font-size: 18px;
+    font-family: var(--font-family);
+    line-height: 21px;
+    color: #fff;
+    word-spacing: 2px;
+}
+
+.barna__footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    width: 100%;
+    text-align: left;
+}
+
+.barna__footer-links div {
+    width: 250px;
+    margin: 1rem;
+}
+
+.barna__footer-links_logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.barna__footer-links_logo img {
+    width: 118px;
+    height: 30px;
+
+    margin-bottom: 1rem;
+}
+
+.barna__footer-links_logo p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 15px;
+    color: #fff;
+}
+
+.barna__footer-links_div {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.barna__footer-links_div h4 {
+    font-size: 14px;
+    line-height: 17px;
+    font-family: var(--font-family);
+    color: #fff;
+
+    margin-bottom: 0.9rem;
+}
+
+.barna__footer-links_div p {
+    font-size: 12px;
+    line-height: 15px;
+    font-family: var(--font-family);
+    color: #fff;
+
+    margin: 0.5rem 0;
+    cursor: pointer;
+}
+
+.barna__footer-copyright {
+    margin-top: 2rem;
+    text-align: center;
+    width: 100%;
+}
+
+.barna__footer-copyright p {
+    font-size: 12px;
+    font-family: var(--font-family);
+    line-height: 15px;
+    color: #fff;
+}
+
+@media screen and (max-width: 850px) {
+    .barna__footer-heading h1 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .barna__footer-heading h1 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    .barna__footer-links div {
+        margin: 1rem 0;
+    }
+
+    .barna__footer-btn p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .barna__footer-heading h1 {
+        font-size: 27px;
+        line-height: 38px;
+    }
+}

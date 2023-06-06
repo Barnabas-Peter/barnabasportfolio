@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/barnabasmuuo/static/css/main.e8744242.css",
+    "main.js": "/barnabasmuuo/static/js/main.ace2ebc5.js",
+    "static/media/laptop.png": "/barnabasmuuo/static/media/laptop.2cc1d7d9abf6579f6624.png",
+    "static/media/web.jpg": "/barnabasmuuo/static/media/web.defc5ead1a844fbc66b7.jpg",
+    "static/media/datascience.png": "/barnabasmuuo/static/media/datascience.d19d87a76439118d7806.png",
+    "static/media/peter.jpg": "/barnabasmuuo/static/media/peter.8af3006fe3f33395c7af.jpg",
+    "static/media/research.png": "/barnabasmuuo/static/media/research.ea969feac15d39b9d3ca.png",
+    "static/media/python.png": "/barnabasmuuo/static/media/python.9cce144a8b8b17a7d3dd.png",
+    "static/media/y20.jpg": "/barnabasmuuo/static/media/y20.db5d8a59481d714883ae.jpg",
+    "static/media/changemaker.jpg": "/barnabasmuuo/static/media/changemaker.e8a5c5b4627dae517185.jpg",
+    "static/media/css.png": "/barnabasmuuo/static/media/css.7f03bab25789e1b15d38.png",
+    "static/media/reactlogo.png": "/barnabasmuuo/static/media/reactlogo.2fefb71cc964bdbb1bbb.png",
+    "index.html": "/barnabasmuuo/index.html",
+    "main.e8744242.css.map": "/barnabasmuuo/static/css/main.e8744242.css.map",
+    "main.ace2ebc5.js.map": "/barnabasmuuo/static/js/main.ace2ebc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8744242.css",
+    "static/js/main.ace2ebc5.js"
+  ]
+}
