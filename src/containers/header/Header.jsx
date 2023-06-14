@@ -7,7 +7,7 @@ const Header = () => (
   <div className="barna__header section__padding" id="home">
     <div className="barna__header-content">
       <h1 className="gradient__text">Step into the World of Barnabas Muuo Peter</h1>
-      <p>Barnabas holds a Bachelor's Degree in Computer Science from KIIT University and a Diploma in Business Information Technology from Strathmore University,fueling his academic prowess. With a keen interest in data science and a drive to leverage its power for positive change, he embraces the potential of this field. Additionally, as a passionate advocate for youth engagement, he strives to amplify the voices and visions of young people, empowering them to shape a brighter future.</p>
+      <p>Barnabas is currently a finalist for his Bachelor's Degree in Computer Science from KIIT University and a Diploma in Business Information Technology from Strathmore University. With a keen interest in data science and a drive to leverage its power for positive change, he embraces the potential of this field. Additionally, as a passionate advocate for youth engagement, he strives to amplify the voices and visions of young people, empowering them to shape a brighter future.</p>
 
     
 
