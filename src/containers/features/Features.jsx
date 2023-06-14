@@ -4,6 +4,10 @@ import './features.css';
 
 const featuresData = [
   {
+    title: 'TheirWorld',
+    text: "As a Global Youth Ambassador, my role involves advocating for global education, participating in Theirworld's campaigns and initiatives, engaging with the ambassador community, sharing knowledge on global education, and representing the voices of young people in education discussions. Through these responsibilities, I work towards creating awareness, driving change, and ensuring that young people have a voice in shaping the future of education worldwide.",
+  },
+  {
     title: 'Aspire Leaders Program',
     text: 'Barnabas is an active participant in the Aspire Leaders Program, a professional development initiative founded at Harvard Business School. Through interactive workshops, coaching sessions, and access to a HarvardX course, Barnabas is enhancing his leadership skills and gaining valuable knowledge to excel as a leader in his future endeavors.',
   },
